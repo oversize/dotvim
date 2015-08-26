@@ -8,7 +8,7 @@ To install just clone the repo to ~/.vim/ and set the symlink of ~/.vimrc to ~/.
 
 ```
 cd ~
-git clone https://github.com/oversize/dotvim .vim
+git clone --recursive https://github.com/oversize/dotvim .vim
 ln -s .vim/vimrc .vimrc
 ```
 
